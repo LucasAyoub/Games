@@ -3,4 +3,5 @@
 ## Jogos criados até o momento:
 
 * Adivinhação
+* Forca
 
