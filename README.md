@@ -3,5 +3,5 @@
 ## Jogos criados até o momento:
 
 * Adivinhação
-* Forca
+* Forca (Baixar junto dele o arquivo "palavras.txt")
 
