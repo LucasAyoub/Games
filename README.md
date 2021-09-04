@@ -1,7 +1,7 @@
-# Galeria de Jogos
+# Game Gallery
 
-## Jogos criados até o momento:
+## Games created:
 
-* Adivinhação
-* Forca (Baixar junto dele o arquivo "palavras.txt")
+* Divination
+* hangman (Download the "palavras.txt" file with it)
 
